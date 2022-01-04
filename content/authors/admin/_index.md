@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Critical Realism
-- Charles S. Pierce
 - Cultural Sociology
+- Sociology of Religion 
+- Theory
 
 
 # Education to show in About widget
