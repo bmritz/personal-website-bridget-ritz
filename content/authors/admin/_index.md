@@ -34,7 +34,7 @@ education:
     year: 2015
   - course: BA in Politics
     institution: Ave Maria University
-    year: 2014
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,4 +75,4 @@ Bridget Ritz is a doctoral candidate in the Department of Sociology at the Unive
 
 Bridget’s theoretical interests deal with pragmatism, critical realism, and personalist social theory. Her empirical research looks at the intersection of culture, religion, and family. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
