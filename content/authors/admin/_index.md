@@ -71,6 +71,8 @@ email: "bridget.ritz@nd.edu"
 highlight_name: true
 ---
 
-Bridget Ritz is a doctoral candidate in the Department of Sociology at the University of Notre Dame, where she is affiliated with the Center for the Study of Religion and Society and the Center for Ethics and Culture. Bridget received her M.A. in the Social Sciences from the University of Chicago (2015) and her B.A. in Politics from Ave Maria University. Bridget’s theoretical interests deal with pragmatism, critical realism, and personalist social theory. Her empirical research looks at the intersection of culture, religion, and family. 
+Bridget Ritz is a doctoral candidate in the Department of Sociology at the University of Notre Dame, where she is affiliated with the Center for the Study of Religion and Society and the Center for Ethics and Culture. Bridget received her M.A. in the Social Sciences from the University of Chicago (2015) and her B.A. in Politics from Ave Maria University. 
+
+Bridget’s theoretical interests deal with pragmatism, critical realism, and personalist social theory. Her empirical research looks at the intersection of culture, religion, and family. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
