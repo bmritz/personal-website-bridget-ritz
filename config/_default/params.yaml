@@ -7,7 +7,7 @@
 
 theme: page_theme
 day_night: false
-font: Rose
+font: font_set_custom
 font_size: L
 
 # SEO

@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Arimo:wght@400;700&family=Roboto+Mono&family=Crimson+Pro:wght@400;700"
+
+# Font families
+heading_font = "Arimo"
+body_font = "Crimson Pro"
+nav_font = "Crimson Pro"
+mono_font = "Crimson Pro"
