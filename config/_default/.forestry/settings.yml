@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: content/publication
-  label: Publictations
+  label: Publications
   create: documents
-  match: "**/*.md"
+  match: "**/*"
 - type: directory
   path: content/project
   label: Projects
